@@ -1,0 +1,9 @@
+img{
+    border: 2px solid black;
+    border-radius: 3px;
+    box-shadow: 2px 3px 3px gray;
+}
+
+img:hover{
+    transform: translateX(100px);
+}
